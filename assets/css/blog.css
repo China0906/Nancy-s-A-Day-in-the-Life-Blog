@@ -5,14 +5,14 @@
   }
   
   .flex-container > div {
-    background-color: #5d7dd6;
+    background-color: #cacfdd;
     width: 100px;
     margin: 10px;
     text-align: center;
-    line-height: 75px;
+    line-height: 780px;
     font-size: 30px;
   }
   
   #div1{
-  flex:200%
+  flex:50%
   }
