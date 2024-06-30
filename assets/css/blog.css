@@ -16,6 +16,22 @@
   #div1{
   flex:50%
   } 
-  #headerdiv{
-    display: flex
+  #headerdiv1{
+    display: flex;
+  }
+  #headerdiv2{
+    display: flex;
+    justify-content: flex-end;
+    width: 100%
+  }
+  body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
   }
