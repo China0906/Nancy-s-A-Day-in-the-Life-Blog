@@ -1,15 +1,15 @@
 .flex-container {
-    display: flex;
-    flex-wrap: nowrap;
+    /* display: flex; */
+    /* flex-wrap: nowrap; */
     background-color: rgb(8, 11, 14);
   }
   
   .flex-container > div {
     background-color: #cacfdd;
-    width: 100px;
+    /* width: 100px; */
     margin: 10px;
     text-align: center;
-    line-height: 780px;
+    /* line-height: 780px; */
     font-size: 30px;
   }
   
